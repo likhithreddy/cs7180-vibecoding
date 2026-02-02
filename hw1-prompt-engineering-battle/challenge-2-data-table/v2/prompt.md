@@ -1,0 +1,4 @@
+# Version 2 Prompt
+Create a React Claude artifact for a data table component in TypeScript that shows a list of Marvel characters and their attributes like name, age, ranking, place of birth, date of birth, code name etc., . The table should support sorting when clicking on column headers, filtering using a simple text input, and pagination with the ability to switch pages and optionally change page size.
+You can use functional components and React hooks. Try to keep the code readable and flexible, but it doesn’t have to be perfect or fully generic. Just make sure sorting, filtering, and pagination behave reasonably with some sample data.
+You do not need to include any Jest or React Testing Library tests. Only create the Claude artifact.
